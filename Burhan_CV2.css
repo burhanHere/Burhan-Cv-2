@@ -1,0 +1,36 @@
+.body{
+   /* background-color: white;*/
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url('back-ground.jpg');
+    /*background-image: linear-gradient(to top, red,green);*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}   
+.h1-details{
+    margin-top: 100px;  
+    font-size: 50px;
+}
+.p-beside-my-pic{
+    font-size: 150%;
+}
+.img-profile-pic{   
+    width: 40%;
+    height: 60%;   
+    margin-right: auto;
+    margin-left:400px;
+    margin-top: 200px;
+}
+.td-deatils{
+    width: 600px;
+  /*  border: 1px outset black;
+    border-radius: 10%;*/
+}
+.td-profilr-pic{
+    width: 600px;
+    align-items:right;
+    /*border:1px outset red;*/
+}
